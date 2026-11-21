@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/isso-1?utm_medium=integration&utm_source=button&utm_campaign=isso)
+
 # Isso on Railway
 
 A Railway template for [Isso](https://isso-comments.de) 0.14.0, a lightweight self-hosted commenting server (a Disqus alternative) written in Python with a SQLite database.
